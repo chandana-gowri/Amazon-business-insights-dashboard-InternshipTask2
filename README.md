@@ -7,11 +7,11 @@ Performance Trends: A line chart showing sales over time.
 
 Order & Payment Breakdown: Donut and pie charts for order status and payment methods.
 
-🛠️ Tools Power BI Desktop
+🛠️ Tools: Power BI Desktop
 
-📂 Contents Amazon_Sales_Dashboard.pbix: The main Power BI project file.
+📂 Contents: Amazon_Sales_Dashboard.pbix: The main Power BI project file.
 
-➡️ How to Use Download the Amazon_Sales_Dashboard.pbix file.
+➡️ How to Use: Download the Amazon_Sales_Dashboard.pbix file.
 
 Open it with Power BI Desktop.
 
